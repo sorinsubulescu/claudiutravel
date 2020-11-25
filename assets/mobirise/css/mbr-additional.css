@@ -688,8 +688,14 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-scbo33HsVW {
+.webp .cid-scbo33HsVW {
   background-image: url("../../../assets/images/mercedes-benz-vito-14.webp");
+}
+.no-webp .cid-scbo33HsVW {
+  background-image: url("../../../assets/images/mercedes-benz-vito-14.jpg");
+}
+.no-js .cid-scbo33HsVW {
+  background-image: url("../../../assets/images/mercedes-benz-vito-14.jpg");
 }
 .cid-scbo33HsVW .social-row .soc-item {
   display: inline-block;
@@ -1330,7 +1336,13 @@ a {
 .cid-s48P1Icc8J .media-container-row .row-copirayt p {
   width: 100%;
 }
-.cid-scbHHWH7Zw {
+.webp .cid-scbHHWH7Zw {
+  background-image: url("../../../assets/images/mbr-1909x1262.webp");
+}
+.no-webp .cid-scbHHWH7Zw {
+  background-image: url("../../../assets/images/mbr-1909x1262.jpg");
+}
+.no-js .cid-scbHHWH7Zw {
   background-image: url("../../../assets/images/mbr-1909x1262.jpg");
 }
 .cid-scbHHWH7Zw .social-row .soc-item {
@@ -2313,6 +2325,14 @@ a {
 .cid-scbSBdMCAI {
   padding-top: 6rem;
   padding-bottom: 6rem;
+}
+.webp .cid-scbSBdMCAI {
+  background-image: url("../../../assets/images/mbr-1-1920x1280.webp");
+}
+.no-webp .cid-scbSBdMCAI {
+  background-image: url("../../../assets/images/mbr-1-1920x1280.jpg");
+}
+.no-js .cid-scbSBdMCAI {
   background-image: url("../../../assets/images/mbr-1-1920x1280.jpg");
 }
 .cid-scbSBdMCAI .row {
@@ -2979,6 +2999,14 @@ a {
 .cid-scc0LG0SyP {
   padding-top: 6rem;
   padding-bottom: 6rem;
+}
+.webp .cid-scc0LG0SyP {
+  background-image: url("../../../assets/images/mbr-1920x1284.webp");
+}
+.no-webp .cid-scc0LG0SyP {
+  background-image: url("../../../assets/images/mbr-1920x1284.jpg");
+}
+.no-js .cid-scc0LG0SyP {
   background-image: url("../../../assets/images/mbr-1920x1284.jpg");
 }
 .cid-scc0LG0SyP .row {
@@ -3645,6 +3673,14 @@ a {
 .cid-scc24TkwXY {
   padding-top: 6rem;
   padding-bottom: 6rem;
+}
+.webp .cid-scc24TkwXY {
+  background-image: url("../../../assets/images/mbr-1920x1080.webp");
+}
+.no-webp.cid-scc24TkwXY {
+  background-image: url("../../../assets/images/mbr-1920x1080.jpg");
+}
+.no-js .cid-scc24TkwXY {
   background-image: url("../../../assets/images/mbr-1920x1080.jpg");
 }
 .cid-scc24TkwXY .row {
@@ -4311,6 +4347,14 @@ a {
 .cid-scc323O27c {
   padding-top: 6rem;
   padding-bottom: 6rem;
+}
+.webp .cid-scc323O27c {
+  background-image: url("../../../assets/images/mbr-2-1920x1280.webp");
+}
+.no-webp .cid-scc323O27c {
+  background-image: url("../../../assets/images/mbr-2-1920x1280.jpg");
+}
+.no-js .cid-scc323O27c {
   background-image: url("../../../assets/images/mbr-2-1920x1280.jpg");
 }
 .cid-scc323O27c .row {
@@ -4977,6 +5021,14 @@ a {
 .cid-scc3K4g7eX {
   padding-top: 6rem;
   padding-bottom: 6rem;
+}
+.webp .cid-scc3K4g7eX {
+  background-image: url("../../../assets/images/mbr-1920x1171.webp");
+}
+.no-webp .cid-scc3K4g7eX {
+  background-image: url("../../../assets/images/mbr-1920x1171.jpg");
+}
+.no-js .cid-scc3K4g7eX {
   background-image: url("../../../assets/images/mbr-1920x1171.jpg");
 }
 .cid-scc3K4g7eX .row {
