@@ -1773,6 +1773,67 @@ a {
   text-align: left;
   color: #232323;
 }
+//
+.cid-servicii-third-row {
+  padding-top: 6rem;
+  padding-bottom: 0rem;
+  background-color: #feffff;
+}
+.cid-servicii-third-row img,
+.cid-servicii-third-row .item-img {
+  height: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+.cid-servicii-third-row .item:focus,
+.cid-servicii-third-row span:focus {
+  outline: none;
+}
+.cid-servicii-third-row .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-servicii-third-row .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #fafafa;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-servicii-third-row .item-wrapper .item-content {
+    padding: 2rem 2rem 0;
+  }
+  .cid-servicii-third-row .item-wrapper .item-footer {
+    padding: 0 2rem 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-servicii-third-row .item-wrapper .item-content {
+    padding: 1rem 1rem 0;
+  }
+  .cid-servicii-third-row .item-wrapper .item-footer {
+    padding: 0 1rem 1rem;
+  }
+}
+.cid-servicii-third-row .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-servicii-third-row .mbr-section-title {
+  color: #232323;
+}
+.cid-servicii-third-row .mbr-text,
+.cid-servicii-third-row .mbr-section-btn {
+  text-align: left;
+}
+.cid-servicii-third-row .item-title {
+  text-align: left;
+}
+.cid-servicii-third-row .item-subtitle {
+  text-align: left;
+  color: #232323;
+}
 .cid-scbKqrXnaF {
   padding-top: 0rem;
   padding-bottom: 1rem;
