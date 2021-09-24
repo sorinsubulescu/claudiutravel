@@ -746,7 +746,6 @@ a {
   position: relative;
   border-radius: 4px;
   background: #feffff;
-  height: 100%;
   display: flex;
   flex-flow: column nowrap;
 }
@@ -815,6 +814,7 @@ a {
 .cid-scburO4AaR .card {
   margin: auto;
   min-height: 280px;
+  height: fit-content;
   transition: all 0.3s;
 }
 .cid-scburO4AaR .card-wrapper {
@@ -884,6 +884,7 @@ a {
 .cid-scbusEJr9Q .card {
   margin: auto;
   min-height: 280px;
+  height: fit-content;
   transition: all 0.3s;
 }
 .cid-scbusEJr9Q .card-wrapper {
@@ -2353,6 +2354,39 @@ a {
   text-align: left;
 }
 .cid-scbSBdMCAI .mbr-section-title {
+  text-align: left;
+}
+.cid-italia {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+}
+.webp .cid-italia {
+  background-image: url("../../../assets/images/coloseum.webp");
+}
+.no-webp .cid-italia {
+  background-image: url("../../../assets/images/coloseum.jpg");
+}
+.no-js .cid-italia {
+  background-image: url("../../../assets/images/coloseum.jpg");
+}
+.cid-italia .row {
+  align-items: center;
+}
+@media (max-width: 991px) {
+  .cid-italia .image-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-italia .text-wrapper {
+    padding: 0 2rem;
+  }
+}
+.cid-italia .mbr-text,
+.cid-italia .mbr-section-btn {
+  text-align: left;
+}
+.cid-italia .mbr-section-title {
   text-align: left;
 }
 .cid-scbTLek2gf {
